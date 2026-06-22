@@ -156,13 +156,13 @@ The integration allows the system to:
 
 ## Deliverables
 
-* Public SRS
+* SRS
+* Figma Prototype (https://www.figma.com/design/VPmf0bMkMmMXN7hc0wY8RT/Personal-Project?node-id=133-598&t=lDfr2jL3PeRaEMCb-1)
 * End-to-End Business Process
 * Activity Diagrams
 * Sequence Diagrams
 * Business Rules
 * Functional Requirements
-* UI/UX Prototype
 * UAT Test Scenarios
 
 ## Tools
